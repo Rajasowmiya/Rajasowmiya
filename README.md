@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajasowmiya
-- 👀 I’m interested in learning...
+  
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞 My goal is to become a good AI engineer
 
